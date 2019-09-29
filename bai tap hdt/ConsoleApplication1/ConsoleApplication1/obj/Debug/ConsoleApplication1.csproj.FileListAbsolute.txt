@@ -1,0 +1,7 @@
+D:\CACLOP\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\CACLOP\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\CACLOP\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\CACLOP\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\CACLOP\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\CACLOP\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.frmNhapSV.resources
+D:\CACLOP\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
